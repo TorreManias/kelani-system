@@ -1,0 +1,6 @@
+/home/marcos/Projects/SistemaKelani/SistemaKelani/bin/Debug/SistemaKelani.exe
+/home/marcos/Projects/SistemaKelani/SistemaKelani/bin/Debug/SistemaKelani.pdb
+/home/marcos/Projects/SistemaKelani/SistemaKelani/obj/x86/Debug/SistemaKelani.csprojAssemblyReference.cache
+/home/marcos/Projects/SistemaKelani/SistemaKelani/obj/x86/Debug/SistemaKelani.csproj.CoreCompileInputs.cache
+/home/marcos/Projects/SistemaKelani/SistemaKelani/obj/x86/Debug/SistemaKelani.exe
+/home/marcos/Projects/SistemaKelani/SistemaKelani/obj/x86/Debug/SistemaKelani.pdb
